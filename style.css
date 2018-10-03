@@ -1,0 +1,65 @@
+h1, h2, h3, h4, h5, p{
+  color:white;
+  font-family: Roboto, sans-serif;
+}
+
+html, body {
+  background: black;
+}
+.ui.menu,
+.menu {
+  word-spacing: 30px;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 9999;
+  display: block;
+  margin: 0;
+  color:white;
+  width: 100%;
+  min-width: 1024px;
+  height: 48px;
+  max-height: 44px;
+  background-color: #181818;
+  font-size: 17px;
+}
+
+.text.nav,
+i {
+  color:#7f7f7f;
+  font-size:16px;
+  font-family: Roboto, sans-serif;
+}
+
+.slider {
+  background-size: 100% 100%;
+  width: 100%;
+  text-align: center;
+  min-height: 480px;
+}
+.slider h1{
+  padding-top:4.375rem;
+  font-weight: 500;
+  font-size: 2.5em;
+  margin-bottom: 5px;
+}
+
+.footer {
+  font-size: 11px;
+  line-height: 1.36364;
+  font-weight: 400;
+  letter-spacing: -.008em;
+  font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;
+  background-color: #f2f2f2;
+  color: #333;
+  min-width: 1024px;
+  overflow: hidden;
+  position: relative;
+  z-index: 1;
+}
+
+.rIcon{
+  height:38px;
+  width: 38px;
+  margin: 0 5px;
+}
